@@ -1,0 +1,12 @@
+* {
+  background-color: rgb(215, 249, 215);
+}
+div > p {
+  color: orangered;
+}
+ul > li {
+  background-color: rgb(98, 98, 243);
+}
+#line-2 {
+  color: red;
+}
